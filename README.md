@@ -1,2 +1,9 @@
 # API_testing
-Automatic tests for different APIs
+
+Sample API test cases written in Python.
+Used PyTest and Requests libraries.
+
+## Used APIs:
+
+https://api.publicapis.org/
+https://catfact.ninja/
