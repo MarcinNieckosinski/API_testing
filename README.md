@@ -5,5 +5,5 @@ Used PyTest and Requests libraries.
 
 ## Used APIs:
 
-https://api.publicapis.org/
+https://api.publicapis.org/ \
 https://catfact.ninja/
