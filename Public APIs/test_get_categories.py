@@ -1,3 +1,7 @@
+"""
+Test cases for GET /categories
+"""
+
 from datetime import timedelta
 import requests
 import utils
